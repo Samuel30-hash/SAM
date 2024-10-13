@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+.flexcontainer{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: aqua
+}
+@tailwind utilities;
